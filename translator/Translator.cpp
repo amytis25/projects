@@ -24,6 +24,7 @@
 #include "ElementDoesNotExistException.h"
 #include "EmptyDataCollectionException.h"
 #include "UnableToInsertException.h"
+
 using std::cin; 
 using std::cout;
 using std::endl;
